@@ -1,0 +1,10 @@
+
+.CarDetails {
+    border: 1px grey solid;
+    margin: 5px;
+
+    span {
+        width: auto;
+        color: blue;
+    }
+}
